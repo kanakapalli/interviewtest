@@ -1,0 +1,11 @@
+/home/sulphuricacid/Desktop/appointment/build/linux/x64/debug/bundle/appointment
+/home/sulphuricacid/Desktop/appointment/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/sulphuricacid/Desktop/appointment/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/sulphuricacid/Desktop/appointment/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/sulphuricacid/Desktop/appointment/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/sulphuricacid/Desktop/appointment/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/sulphuricacid/Desktop/appointment/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/sulphuricacid/Desktop/appointment/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/sulphuricacid/Desktop/appointment/build/linux/x64/debug/bundle/data/flutter_assets/packages/flutter_neumorphic/fonts/NeumorphicIcons.ttf
+/home/sulphuricacid/Desktop/appointment/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/sulphuricacid/Desktop/appointment/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
